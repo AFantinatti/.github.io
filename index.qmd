@@ -1,0 +1,39 @@
+---
+about:
+  template: solana
+  id: about-block
+  image: "img/Amanda1_v1.png"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AmandaFantinat
+    - icon: github
+      text: Github
+      href: https://github.com/AFantinatti
+    - icon: linkedin
+      text: LinkedIn
+      href: https://br.linkedin.com/in/amandafantinatti
+    - icon: envelope
+      text: Email
+      href: "mailto:miranda.a.amanda@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I'm a PhD candidate in economics at FGV-EESP.
+
+My research interests are macroeconomics, macro-questions, micro-data, household credit, debt and default.
+
+You can find my CV here.
+
+Please feel free to [contact me](mailto:miranda.a.amanda@gmail.com) if you have any questions.
+
+<!-- ```{=html} -->
+<!-- <div  style="margin: 30px; text-align: center;"> -->
+<!-- <a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a> -->
+<!-- </div> -->
+<!-- ``` -->
+
